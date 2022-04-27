@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: ghostwhite;
+    font: 0.8em/1.2 Verdana;
+}
+
+#main{
+    width: 1125px;
+    margin: 2% auto;  
+}
+
+#Characteristics{
+    line-height: 17.8px;
+    width: 562.5px;
+    margin: 2% auto;
+    background: rgb(156, 148, 148);
+    float: left;
+    text-align: initial;
+}
+
+#Achievements{
+    line-height: 50px;
+    width: 562.5px;
+    margin: 2% auto;
+    background: rgb(104, 98, 99);
+    float: left;
+    text-align: initial;
+}
+
+#BCN{
+    line-height: 20px;
+    margin: 2% auto;
+    background: rgb(195, 135, 222);
+    text-align: left;
+}
+#image{
+    line-height: 20px;
+    margin: 2% auto;
+    image-resolution: inherit;
+}
